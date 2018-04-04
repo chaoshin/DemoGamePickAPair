@@ -12,6 +12,7 @@
 		A038F6C12073D78600D38A05 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A038F6BF2073D78600D38A05 /* Main.storyboard */; };
 		A038F6C32073D78800D38A05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A038F6C22073D78800D38A05 /* Assets.xcassets */; };
 		A038F6C62073D78800D38A05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A038F6C42073D78800D38A05 /* LaunchScreen.storyboard */; };
+		A038F6CE2073DF2B00D38A05 /* PickAPairViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A038F6CD2073DF2B00D38A05 /* PickAPairViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A038F6C22073D78800D38A05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A038F6C52073D78800D38A05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A038F6C72073D78800D38A05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A038F6CD2073DF2B00D38A05 /* PickAPairViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickAPairViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A038F6BB2073D78600D38A05 /* AppDelegate.swift */,
 				A038F6BD2073D78600D38A05 /* ViewController.swift */,
 				A038F6BF2073D78600D38A05 /* Main.storyboard */,
+				A038F6CD2073DF2B00D38A05 /* PickAPairViewController.swift */,
 				A038F6C22073D78800D38A05 /* Assets.xcassets */,
 				A038F6C42073D78800D38A05 /* LaunchScreen.storyboard */,
 				A038F6C72073D78800D38A05 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A038F6CE2073DF2B00D38A05 /* PickAPairViewController.swift in Sources */,
 				A038F6BE2073D78600D38A05 /* ViewController.swift in Sources */,
 				A038F6BC2073D78600D38A05 /* AppDelegate.swift in Sources */,
 			);
